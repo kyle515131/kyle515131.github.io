@@ -1,4 +1,5 @@
 baseURL = 'https://kyle515131.github.io/'
 languageCode = 'en-us'
-title = 'My New Hugo Site'
+title = '玉米學習網站'
 theme = 'ananke'
+
