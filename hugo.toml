@@ -2,5 +2,6 @@ baseURL = 'https://kyle515131.github.io/'
 languageCode = 'en-us'
 title = '玉米的學習網站'
 theme = 'ananke'
-featured_image = "/images/kyle.jpg"
+cascade:
+  featured_image= '/images/kyle.jpg'
 tags= ["歡迎光臨"]
