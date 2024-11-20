@@ -1,6 +1,5 @@
 baseURL = 'https://kyle515131.github.io/'
 languageCode = 'en-us'
 title = '玉米的學習網站'
-featured_image = "/images/kk.jpg"
 theme = 'ananke'
 
